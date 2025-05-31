@@ -10,4 +10,5 @@ My recent work has explored [information storage versus annotated latent computa
 ***Current Research***<br>
 I am currently working on a new formulation for circuit discovery informed by Bayesian modeling. I am particularly interested in developing this towards unsupervised network decomposition to broadly characterize drivers of critical computation. I am extending my current work in new directions.
 
-[LinkedIn](https://www.linkedin.com/in/mdlevinson)
+***Contact***<br>
+[Email Me](mailto:good.epic@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mdlevinson)
