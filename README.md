@@ -5,10 +5,10 @@ I bring deep technical expertise from computational biology, large-scale ML syst
 
 
 ***Recent Work***<br>
-My recent work has explored [information storage versus annotated latent computation](https://openreview.net/pdf?id=svMpLjlExR) in a thinking model's chain of thought, [describing activation distributions](https://www.lesswrong.com/posts/rzpKYr7xYwHgsccLA/beyond-gaussian-language-model-representations-and) in decoder-only transformers, and investigating [classification through activation distributions](https://www.lesswrong.com/posts/6PCjTM55jdYBgHNyp/activation-magnitudes-matter-on-their-own-insights-from-1).
+My recent work has explored [information storage versus annotated latent computation](https://openreview.net/pdf?id=svMpLjlExR) in a thinking model's chain of thought, [describing activation distributions](https://www.lesswrong.com/posts/rzpKYr7xYwHgsccLA/beyond-gaussian-language-model-representations-and) in decoder-only transformers, and investigating [classification through activation distributions](https://www.lesswrong.com/posts/6PCjTM55jdYBgHNyp/activation-magnitudes-matter-on-their-own-insights-from-1). The repo for the chain of thought work is under my research partner's account [here](https://github.com/immindich/neel-mats-sprint).
 
 ***Current Research***<br>
-I am currently working on a new formulation for circuit discovery informed by Bayesian modeling. I am particularly interested in developing this towards unsupervised network decomposition to broadly characterize drivers of critical computation. I am extending my current work in new directions.
+I am currently working on a new formulation for circuit discovery informed by Bayesian modeling in the beta-copula-circuits repo below. I am particularly interested in developing this towards unsupervised network decomposition to broadly characterize drivers of critical computation.
 
 ***Contact***<br>
 [Email Me](mailto:good.epic@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mdlevinson)
