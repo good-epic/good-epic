@@ -2,7 +2,7 @@
 
 AI capabilities have scaled. Near cutting-edge, open-weight models lower the barrier for state and non-state actors to build advanced AI systems for adversarial purposes. As cost pushes more companies toward open-weight models, the deployment surface for models that pose enterprise and societal risk will greatly expand. Anthropic has documented fitness-seeking risk, where models perform misaligned actions judged to be optimal for the requested goal. Detecting and countering these risks requires production-grade AI safety infrastructure, not just research. And the AI safety community is undersupplied in people who can ship that infrastructure at scale. That gap motivated my transition into the space, and what I'm now building toward.
 
-I'm currently in stealth mode building a new company focused on white-box monitoring and control for enterprise deployments of open-weight models, recently funded by a BlueDot rapid grant. Before transitioning into AI safety, I spent 6 years leading teams delivering critical consumer-facing ML capabilities at scale, part of a two-decade technical career spanning a PhD in statistics, academic research in economics and computational biology, and nearly 10 years in industry. Over the past 1.5 years, I received fellowships from Coefficient Giving and Simplex AI Safety to fund study and new research in technical AI safety.
+I'm building [Clearwood](https://www.clearwood.ai) with co-founder [Michael Klear (CTO)](https://www.linkedin.com/in/michael-klear/), focused on white-box monitoring and control for enterprise deployments of agentic models. We were recently funded by a BlueDot Impact rapid grant. Before transitioning into AI safety, I spent 6 years leading teams delivering critical consumer-facing ML capabilities at scale, earned a PhD in statistics, and did academic research in economics and computational biology. Before cofounding Clearwood, I received fellowships from Coefficient Giving and Simplex AI Safety to fund study and new research in technical AI safety.
 
 ***Research***<br>
 
@@ -12,4 +12,4 @@ Earlier in my transition, I did exploratory work on [information storage versus 
 
 
 ***Contact***<br>
-[Email Me](mailto:good.epic@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mdlevinson)
+[Email Me](mailto:matt@clearwood.ai) | [LinkedIn](https://www.linkedin.com/in/mdlevinson)
